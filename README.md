@@ -14,5 +14,6 @@ How to use:
 Example output with GRID_SIZE=1024, CELL_SIZE=16 and Minecraft mosaics:
 ![guccitwig 1676946168](https://user-images.githubusercontent.com/104533077/220235214-ba29d057-3355-4c5d-bbd8-128838541531.png)
 
+Image in `/input`
+
 ![guccitwig](https://user-images.githubusercontent.com/104533077/220236226-ff7e6a34-6e88-4dd5-a244-1137aca6e960.png)
-Image in `/input` ^
