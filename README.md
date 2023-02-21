@@ -7,7 +7,7 @@ It mostly uses PIL and Numpy so it is actually pretty efficient.
 How to use:
 - You input your mosaics in the folder `/mosaics` (in this case they are images from the game Minecraft.)
 - You input your images you want converted in the folder `/input`
-- You change the variables `GRID_SIZE` (longest side of the output image) and `CELL_SIZE` (longest side of the mosaic image) in `main.py` to your liking
+- You change the variables `GRID_SIZE` (longest side of the output image) and `CELL_SIZE` (length of both sides of the mosaic image) in `main.py` to your liking
 - You run `main.py` and wait for that to finish
 - Look at your results in the folder `/output`
 
