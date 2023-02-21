@@ -11,8 +11,9 @@ How to use:
 - You run `main.py` and wait for that to finish
 - Look at your results in the folder `/output`
 
-Example input:
+Example with GRID_SIZE=1024, CELL_SIZE=16 and Minecraft mosaics:
+Input:
 ![guccitwig](https://user-images.githubusercontent.com/104533077/220235175-a2b09a45-a2ce-4785-b7c5-b8dcb18f4e08.png)
 
-Example output:
+Output:
 ![guccitwig 1676946168](https://user-images.githubusercontent.com/104533077/220235214-ba29d057-3355-4c5d-bbd8-128838541531.png)
